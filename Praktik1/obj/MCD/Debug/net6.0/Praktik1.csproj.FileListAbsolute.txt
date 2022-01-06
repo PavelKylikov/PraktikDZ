@@ -1,0 +1,15 @@
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\bin\MCD\Debug\net6.0\Praktik1.exe
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\bin\MCD\Debug\net6.0\Praktik1.deps.json
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\bin\MCD\Debug\net6.0\Praktik1.runtimeconfig.json
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\bin\MCD\Debug\net6.0\Praktik1.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\bin\MCD\Debug\net6.0\ref\Praktik1.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\bin\MCD\Debug\net6.0\Praktik1.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\obj\MCD\Debug\net6.0\Praktik1.csproj.AssemblyReference.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\obj\MCD\Debug\net6.0\Praktik1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\obj\MCD\Debug\net6.0\Praktik1.AssemblyInfoInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\obj\MCD\Debug\net6.0\Praktik1.AssemblyInfo.cs
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\obj\MCD\Debug\net6.0\Praktik1.csproj.CoreCompileInputs.cache
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\obj\MCD\Debug\net6.0\Praktik1.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\obj\MCD\Debug\net6.0\ref\Praktik1.dll
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\obj\MCD\Debug\net6.0\Praktik1.pdb
+C:\Users\Павел\Desktop\Разработчик\C#\Praktik\Praktik1\obj\MCD\Debug\net6.0\Praktik1.genruntimeconfig.cache
